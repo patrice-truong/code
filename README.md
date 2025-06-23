@@ -23,3 +23,11 @@ This repository contains a project that shows how to create MCP client and serve
 Source code available here: [https://github.com/patrice-truong/cosmosdb-mcp](https://github.com/patrice-truong/cosmosdb-mcp)
 
 ![Demo](demo_mcp.gif)
+
+
+## MCP Client-Server Examples
+
+This repository contains example implementations of Model Context Protocol (MCP) client and server applications in both C# and Node.js/TypeScript. The examples demonstrate how to build MCP-compatible servers that expose tools for hotel search functionality and clients that can connect to and interact with these servers.
+
+Source code available here: [https://github.com/patrice-truong/mcp-client-server](https://github.com/patrice-truong/mcp-client-server)
+![MCP Client Application](IGqhQMu3mX.png)
