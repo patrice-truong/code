@@ -31,3 +31,10 @@ This repository contains example implementations of Model Context Protocol (MCP)
 
 Source code available here: [https://github.com/patrice-truong/mcp-client-server](https://github.com/patrice-truong/mcp-client-server)
 ![MCP Client Application](IGqhQMu3mX.png)
+
+## Cosmos DB CRUD Application for Microsoft Fabric
+
+This is a C# console application that provides full CRUD (Create, Read, Update, Delete) operations for Azure Cosmos DB databases hosted in Microsoft Fabric.
+
+Source code available here: [https://github.com/patrice-truong/csharp-cosmosdb-in-fabric-crud](https://github.com/patrice-truong/csharp-cosmosdb-in-fabric-crud)
+![csharp-cosmosdb-in-fabric](csharp-cosmosdb-in-fabric.png)
